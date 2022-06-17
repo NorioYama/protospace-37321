@@ -12,7 +12,7 @@
 ## Association
 - has_many :prototypes
 - has_many :comments
-dc
+dcm
 
 ## prototypes table
 
